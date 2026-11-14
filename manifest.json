@@ -1,0 +1,767 @@
+{
+  "formatVersion": 1,
+  "assets": {
+    "icons/swords": {
+      "path": "assets/icons/swords.png",
+      "bytes": 1487,
+      "sha256": "3251569a62f2a0c43599018affdf78876aeec3e7f842d6c76d7afacd50c2d39b",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/swords.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/swords-glow": {
+      "path": "assets/icons/swords-glow.png",
+      "bytes": 5121,
+      "sha256": "0abf4051ce01e3639df9dbd703b04ec82cdc289c5446fc5e089b80a47e788e59",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/swords-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/crosshair": {
+      "path": "assets/icons/crosshair.png",
+      "bytes": 1660,
+      "sha256": "c11d87cc711538c99b6fd62dbea8b38639428dd7a123dc548dc846bf83d50d11",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/crosshair.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/crosshair-glow": {
+      "path": "assets/icons/crosshair-glow.png",
+      "bytes": 5354,
+      "sha256": "d34b73cbd86966fa95ba2e0c175187d6ecc657f4a2315d743924c180fd9f8633",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/crosshair-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/workflow": {
+      "path": "assets/icons/workflow.png",
+      "bytes": 1038,
+      "sha256": "9e3044fa5fa363e04a6448b836e9bd5640fd417c3f0942c0e91235fa922fc9d7",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/workflow.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/workflow-glow": {
+      "path": "assets/icons/workflow-glow.png",
+      "bytes": 4267,
+      "sha256": "e993032f35b131e8179afbf42ac6a910e3632db6c36cbd611bfb76336f3bb31a",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/workflow-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/user-round": {
+      "path": "assets/icons/user-round.png",
+      "bytes": 1390,
+      "sha256": "87f7f4b367ac9342ed20082f8b3a0b1814f63b4b7a12706184ca5ec24dac0a58",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/user-round.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/user-round-glow": {
+      "path": "assets/icons/user-round-glow.png",
+      "bytes": 4215,
+      "sha256": "522918e66a7ff4735d886e74ed0b476c410ac65ff6e51ce77e06bbe3f5ee3f0b",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/user-round-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/radar": {
+      "path": "assets/icons/radar.png",
+      "bytes": 2295,
+      "sha256": "db6d1081b68c04968425079f2b4114c21cc4e37d89e6d1f9c38330d43ca8828b",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/radar.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/radar-glow": {
+      "path": "assets/icons/radar-glow.png",
+      "bytes": 5090,
+      "sha256": "51c64c7160b5ddfe185cae4055a6121822cf6a1cc34b9b8206210613a27371c7",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/radar-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/eye": {
+      "path": "assets/icons/eye.png",
+      "bytes": 1491,
+      "sha256": "08152d0e0e08793fb68d25ffc1904bb56e1b6168e6bac0b50cae3f84d4200858",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/eye.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/eye-glow": {
+      "path": "assets/icons/eye-glow.png",
+      "bytes": 4019,
+      "sha256": "de7b47e1a117efc6db3c03a141376fc5a8e62801ba657d5068a177895954cba7",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/eye-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/package-open": {
+      "path": "assets/icons/package-open.png",
+      "bytes": 2163,
+      "sha256": "e9531a133443d2c3524c68887cb701cf257001de99fff93bf4b52add1ab8098a",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/package-open.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/package-open-glow": {
+      "path": "assets/icons/package-open-glow.png",
+      "bytes": 5310,
+      "sha256": "6e9071240bc025bd508eb34375ee6346e2dc24ddd0d0652571e717acc9b7a023",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/package-open-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/hand": {
+      "path": "assets/icons/hand.png",
+      "bytes": 1594,
+      "sha256": "1c8ee0008ab3f0f3ad951a70c773ad8823ba7d0721122888080a35e6b17759c0",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/hand.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/hand-glow": {
+      "path": "assets/icons/hand-glow.png",
+      "bytes": 4969,
+      "sha256": "e8778b0c324c2cca9f5810a2855a1e4bd3e9c1856ab954b1f02e793ef37efbe9",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/hand-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/earth": {
+      "path": "assets/icons/earth.png",
+      "bytes": 2135,
+      "sha256": "0649bb080a7131ca25723b65018d67b11f153ca1360fb0a296799443406efb0a",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/earth.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/earth-glow": {
+      "path": "assets/icons/earth-glow.png",
+      "bytes": 5527,
+      "sha256": "ce139ad8a5eef5c98c07b83f52b3a17e8128e72df6b8dfac26b74ca5a5ed4806",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/earth-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/venetian-mask": {
+      "path": "assets/icons/venetian-mask.png",
+      "bytes": 1372,
+      "sha256": "3b728148cfd8092d0700453a95e89c836db56b9e72e08b7341f0c7461c401768",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/venetian-mask.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/venetian-mask-glow": {
+      "path": "assets/icons/venetian-mask-glow.png",
+      "bytes": 4052,
+      "sha256": "d2733e901958203aae34dca58d7294243299923df58040eee1d4715e5d29ba8b",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/venetian-mask-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/wrench": {
+      "path": "assets/icons/wrench.png",
+      "bytes": 1395,
+      "sha256": "c40133d861ce78e35c7374b0e06f432ef727a48483a9bd31bb7c89de649b30e7",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/wrench.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/wrench-glow": {
+      "path": "assets/icons/wrench-glow.png",
+      "bytes": 3985,
+      "sha256": "d3770efa15b2fa9febe96d66bece650730085da8c5cd42a7b1e62a2b5e62afa5",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/wrench-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/settings-2": {
+      "path": "assets/icons/settings-2.png",
+      "bytes": 1089,
+      "sha256": "9d726574eff9f8d460c846627139996c08cd4cdc868c3a9702381db15d82541b",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/settings-2.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/settings-2-glow": {
+      "path": "assets/icons/settings-2-glow.png",
+      "bytes": 3687,
+      "sha256": "0497fa6c6abbef3ad2c9e6e3cac913fa90b07883935ce5f6616b7589533fa70a",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/settings-2-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/box": {
+      "path": "assets/icons/box.png",
+      "bytes": 1572,
+      "sha256": "b210e10e4e9a8b90bfd6fd71af5b53c5afe38ee88e1d372ec0e1b352129031b9",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/box.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/box-glow": {
+      "path": "assets/icons/box-glow.png",
+      "bytes": 4907,
+      "sha256": "8384856e6186b58a286f6a7f624d5be8e28b605466d29cfdd97dff7bf7f2d291",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/box-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/paintbrush": {
+      "path": "assets/icons/paintbrush.png",
+      "bytes": 1679,
+      "sha256": "83580bd5734ad766c6578fcfc2b9ef6478a6ac325b6b23c494e2beefa36c28f5",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/paintbrush.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/paintbrush-glow": {
+      "path": "assets/icons/paintbrush-glow.png",
+      "bytes": 4635,
+      "sha256": "7283549b5db5ceae3365a4c7ba1264bc48b8e330a7f8a0d3ea1a9ce37ce25b47",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/paintbrush-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/wallpaper": {
+      "path": "assets/icons/wallpaper.png",
+      "bytes": 1293,
+      "sha256": "af5aff15360bfd1bfdd51e91c3047dca0777d26ad30c37c5cbade2c3dce6d351",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/wallpaper.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/wallpaper-glow": {
+      "path": "assets/icons/wallpaper-glow.png",
+      "bytes": 4792,
+      "sha256": "bb06bed5dcec2bb7938765ac4b540caddbfd6af95bbfb9d0fac5e4cb21b66693",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/wallpaper-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/gem": {
+      "path": "assets/icons/gem.png",
+      "bytes": 1988,
+      "sha256": "6a6217a11e574831fda3caff24a00a0c6c1cbe98fc717c0743bef935d43cde6e",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/gem.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/gem-glow": {
+      "path": "assets/icons/gem-glow.png",
+      "bytes": 4985,
+      "sha256": "478c6f4e3fb2e70498ffe6be2d5474a8a43ef182f9c7bc811894b20b9af4e24b",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/gem-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/skull": {
+      "path": "assets/icons/skull.png",
+      "bytes": 1646,
+      "sha256": "bde6faa57eec3043601ecbc454baccbdd1764bc9f6d81ae57fd128421cf13e1d",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/skull.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/skull-glow": {
+      "path": "assets/icons/skull-glow.png",
+      "bytes": 4733,
+      "sha256": "329b569ffc0c91207921d8425f366475ff1865015cabf502a2b080ced2fbcb95",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/skull-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/shapes": {
+      "path": "assets/icons/shapes.png",
+      "bytes": 1327,
+      "sha256": "a6e7653c98f1698618fa49c8f085527b13350987e19d2ef0e714a9344bdac3aa",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/shapes.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/shapes-glow": {
+      "path": "assets/icons/shapes-glow.png",
+      "bytes": 4618,
+      "sha256": "1755d73784a028c084451e3355a74a0ee41ee7bae6a5e72c00faab5cfc106390",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/shapes-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/check": {
+      "path": "assets/icons/check.png",
+      "bytes": 617,
+      "sha256": "b58d3611f42c88c603171d1c5cf5dcd68722ffaccf018449e7c6ec99750a7c43",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/check.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/check-glow": {
+      "path": "assets/icons/check-glow.png",
+      "bytes": 1975,
+      "sha256": "565211a33bea6409fc246b12a7761351183f5b56827ba997d01c7e402b74acf4",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/check-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/x": {
+      "path": "assets/icons/x.png",
+      "bytes": 567,
+      "sha256": "d7cc5e68e9e40715a9ceb96ba387ce450a0fa2b4a64915f99b24f348519ecee5",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/x.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/x-glow": {
+      "path": "assets/icons/x-glow.png",
+      "bytes": 2928,
+      "sha256": "0d03cc5d5984aecbaf38d089e282ce47b5f2f2f0fe5fc64014d9c464a7a194b1",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/x-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/ban": {
+      "path": "assets/icons/ban.png",
+      "bytes": 1674,
+      "sha256": "4970829ac2230ccd28e57b97974c16fda7d8c1af74c466962f418a0e388cad5a",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/ban.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/ban-glow": {
+      "path": "assets/icons/ban-glow.png",
+      "bytes": 5053,
+      "sha256": "12fc8720b0c0825e0a434d36886334eb5104090c63bfdedf3d9a880a59b1da17",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/ban-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/search": {
+      "path": "assets/icons/search.png",
+      "bytes": 1380,
+      "sha256": "3ffba30cd72ec498f09a0a69d0b243f4813da741ffeacbc8cd68ac962e9e8603",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/search.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/search-glow": {
+      "path": "assets/icons/search-glow.png",
+      "bytes": 4271,
+      "sha256": "aaa2bad11ae0533ff4d72f050da973571c026adc20425c4db3cf40d7d677017a",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/search-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/palette": {
+      "path": "assets/icons/palette.png",
+      "bytes": 1994,
+      "sha256": "c50c16f2302e33796c835f58e56a88a076628f8f3669fbb68a46e6944726e115",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/palette.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/palette-glow": {
+      "path": "assets/icons/palette-glow.png",
+      "bytes": 5155,
+      "sha256": "f028f487677b1836cba84b1dab6b19c9acf1a0b970cd97c8a4e69173dee14c4f",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/palette-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/blend": {
+      "path": "assets/icons/blend.png",
+      "bytes": 1947,
+      "sha256": "fb28510724ac191bc295a5a3c1c9ceb0b6ddbb3ee79e6904c06f66f7862553c2",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/blend.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/blend-glow": {
+      "path": "assets/icons/blend-glow.png",
+      "bytes": 5106,
+      "sha256": "ca088453b60935c144a649af19045d930ac7af2118f667151be3d09a5f2af6a6",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/blend-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/chevron-down": {
+      "path": "assets/icons/chevron-down.png",
+      "bytes": 441,
+      "sha256": "45a9795cc245d7e9b35ab66be2d1df3e4c90200e5ac96d48c04935dae10da030",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/chevron-down.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/chevron-down-glow": {
+      "path": "assets/icons/chevron-down-glow.png",
+      "bytes": 1781,
+      "sha256": "c0fe4d3be0f70e9b60f906f76013393b3ec44042df8220808fe7477b3005b161",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/chevron-down-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/info": {
+      "path": "assets/icons/info.png",
+      "bytes": 1694,
+      "sha256": "f934609acb74da7bc2f1a013064bf68b1717d31c15bf08adfeecce4359c37e40",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/info.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/info-glow": {
+      "path": "assets/icons/info-glow.png",
+      "bytes": 5318,
+      "sha256": "4587d3cf555d86b21f4615d789302851fff9facef3d5e9bfc57d6032b693d591",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/info-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/triangle-alert": {
+      "path": "assets/icons/triangle-alert.png",
+      "bytes": 1438,
+      "sha256": "dd3ee20b4b4da6ba7bddbdfee37c270644d4cec2e1991e7180d707b93e10241a",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/triangle-alert.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/triangle-alert-glow": {
+      "path": "assets/icons/triangle-alert-glow.png",
+      "bytes": 4504,
+      "sha256": "d7f0e458c53ff2b3da73cab7b0341d78d3954cc65a531a02b1dc63c2ba60c808",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/triangle-alert-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/shield-check": {
+      "path": "assets/icons/shield-check.png",
+      "bytes": 1444,
+      "sha256": "ea81e7342ef18e8f064f634f3786703618462e56385c283c240135e156f9e4e2",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/shield-check.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/shield-check-glow": {
+      "path": "assets/icons/shield-check-glow.png",
+      "bytes": 4700,
+      "sha256": "6c88e62216ef5c2c4576c73a4b2082be09d12430677faee48d5e63280d2349f7",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/shield-check-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/navigation-2": {
+      "path": "assets/icons/navigation-2.png",
+      "bytes": 1423,
+      "sha256": "87570164e67eec62c2054568cf10babda7fc4d2308dd29f94cb1fc02a9d09a89",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/navigation-2.png",
+      "width": 64,
+      "height": 64
+    },
+    "icons/navigation-2-glow": {
+      "path": "assets/icons/navigation-2-glow.png",
+      "bytes": 4090,
+      "sha256": "d2fec7d0b17e648279b8bfb8244c4ca879c7d96b2d587aa8173d2da87b567070",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/navigation-2-glow.png",
+      "width": 96,
+      "height": 96
+    },
+    "icons/esp-arrow": {
+      "path": "assets/icons/esp-arrow.png",
+      "bytes": 1020,
+      "sha256": "38a106f11ac083bfdf958e2ea5f0e232ff3d43c379b1681672357db97461f181",
+      "type": "image/png",
+      "group": "icons",
+      "cachePath": "ElisiumV3/Assets/iconify-update2/esp-arrow.png",
+      "width": 64,
+      "height": 64
+    },
+    "weather/stars": {
+      "path": "assets/weather/weather_star_9a7809ed.png",
+      "bytes": 40225,
+      "sha256": "9a7809ed06468b38e95b9b8271a14889973919a32dc5dc40be9ae6ced4dd75f6",
+      "type": "image/png",
+      "group": "weather",
+      "cachePath": "ElisiumV3/Assets/weather_star_9a7809ed.png",
+      "width": 256,
+      "height": 256
+    },
+    "weather/cherry blossom": {
+      "path": "assets/weather/weather_cherry_blossom_79777019.png",
+      "bytes": 68019,
+      "sha256": "797770193ec6e5fa1876eeb6da812903c06434315116ca18985501737932cb2a",
+      "type": "image/png",
+      "group": "weather",
+      "cachePath": "ElisiumV3/Assets/weather_cherry_blossom_79777019.png",
+      "width": 256,
+      "height": 256
+    },
+    "weather/autumn leaves": {
+      "path": "assets/weather/weather_autumn_leaf_a8fea88b.png",
+      "bytes": 70774,
+      "sha256": "a8fea88b9ac9d3a6617e317a47c60bdda76726e8c34a8735a734537395a7d02e",
+      "type": "image/png",
+      "group": "weather",
+      "cachePath": "ElisiumV3/Assets/weather_autumn_leaf_a8fea88b.png",
+      "width": 256,
+      "height": 256
+    },
+    "weather/stars custom": {
+      "path": "assets/weather/weather_stars_custom_v1.png",
+      "bytes": 27677,
+      "sha256": "aab46612dff97960a7c99b53a522a510569373b5d8c082a26af79793976620c4",
+      "type": "image/png",
+      "group": "weather",
+      "cachePath": "ElisiumV3/Assets/weather_stars_custom_v1.png",
+      "width": 256,
+      "height": 256
+    },
+    "weather/cherry blossom custom": {
+      "path": "assets/weather/weather_cherry_blossom_custom_v1.png",
+      "bytes": 28613,
+      "sha256": "de56d7c997d0726fde79f471bc990d88c202d5a66b4f3f930a23bdc08eee2d07",
+      "type": "image/png",
+      "group": "weather",
+      "cachePath": "ElisiumV3/Assets/weather_cherry_blossom_custom_v1.png",
+      "width": 256,
+      "height": 256
+    },
+    "weather/autumn leaves custom": {
+      "path": "assets/weather/weather_autumn_leaves_custom_v1.png",
+      "bytes": 47165,
+      "sha256": "f525cdbcce183c47af89a21707b1411178a8897abbb6a542d9f34d0675e8c12c",
+      "type": "image/png",
+      "group": "weather",
+      "cachePath": "ElisiumV3/Assets/weather_autumn_leaves_custom_v1.png",
+      "width": 256,
+      "height": 256
+    },
+    "images/background": {
+      "path": "assets/images/elisium-background.png",
+      "bytes": 233994,
+      "sha256": "61f1552a8217acaf43dbad738aeba9c9485dadfacbaa2cf13e728107c875ef18",
+      "type": "image/png",
+      "group": "images",
+      "cachePath": "ElisiumV3/Assets/elisium-background.png",
+      "width": 447,
+      "height": 558
+    },
+    "images/companion": {
+      "path": "assets/images/mommy-companion-v2.png",
+      "bytes": 1167080,
+      "sha256": "9e556bcd612312b8c1ec934d7592cf5603dcf6c33f3c5586166599366d2cf5c7",
+      "type": "image/png",
+      "group": "images",
+      "cachePath": "ElisiumV3/Assets/mommy-companion-v2.png",
+      "width": 1254,
+      "height": 1254
+    },
+    "texture-packs/rebxyyxz": {
+      "path": "texture-packs/rebxyyxz.json",
+      "bytes": 5108,
+      "sha256": "d2d4911d1e6afe224d104c9ab7197119e61de1bf8c64cc602ceefd9f85b70bd4",
+      "type": "application/json",
+      "group": "texture-packs",
+      "name": "rebxyyxz"
+    },
+    "texture-packs/soul-harvester": {
+      "path": "texture-packs/soul-harvester.json",
+      "bytes": 1320,
+      "sha256": "e5860e6c6e305ddec3c292ed08c46cc41139e1d2801b7d414325636659116601",
+      "type": "application/json",
+      "group": "texture-packs",
+      "name": "Soul Harvester"
+    },
+    "texture-packs/notxt": {
+      "path": "texture-packs/notxt.json",
+      "bytes": 647,
+      "sha256": "a331ee4c8d95a142cfe413b55e5e1e07fc3ba7886241e239ad600b56a247091f",
+      "type": "application/json",
+      "group": "texture-packs",
+      "name": "NoTxt"
+    },
+    "texture-packs/darkmode-v3-5": {
+      "path": "texture-packs/darkmode-v3-5.json",
+      "bytes": 4435,
+      "sha256": "d8a4cb76bfc7bd0d1b96f2d0439565c4fd86e69ea2b54d88e329689dcdadec79",
+      "type": "application/json",
+      "group": "texture-packs",
+      "name": "DARKMODE V3.5"
+    },
+    "texture-packs/shadownaught": {
+      "path": "texture-packs/shadownaught.json",
+      "bytes": 1967,
+      "sha256": "1d13c80947b0ddada11f6fb18239a182431a22f72a35da4d63b488c6e2eb8ac1",
+      "type": "application/json",
+      "group": "texture-packs",
+      "name": "Shadownaught"
+    },
+    "texture-packs/bone-skins": {
+      "path": "texture-packs/bone-skins.json",
+      "bytes": 3733,
+      "sha256": "670c569c6d7b4946da41b1261bf5cb8db1d2ec8994d572f5d219f1cf79e7e2a9",
+      "type": "application/json",
+      "group": "texture-packs",
+      "name": "Bone skins"
+    },
+    "texture-packs/minecraft-classic-night": {
+      "path": "texture-packs/minecraft-classic-night.json",
+      "bytes": 25155,
+      "sha256": "ed85a0c579a8d2ecfce432e9ad9af19dbda84bf562ea02b20e01dec29937fe6b",
+      "type": "application/json",
+      "group": "texture-packs",
+      "name": "Minecraft Classic (night)"
+    },
+    "texture-packs/crimvals": {
+      "path": "texture-packs/crimvals.json",
+      "bytes": 31217,
+      "sha256": "1df38287a81831cb75360abc2845fe0e60cb2beed7d4fdfaa3043851fd9e515f",
+      "type": "application/json",
+      "group": "texture-packs",
+      "name": "Crimvals"
+    }
+  },
+  "texturePacks": {
+    "rebxyyxz": "texture-packs/rebxyyxz",
+    "Soul Harvester": "texture-packs/soul-harvester",
+    "NoTxt": "texture-packs/notxt",
+    "DARKMODE V3.5": "texture-packs/darkmode-v3-5",
+    "Shadownaught": "texture-packs/shadownaught",
+    "Bone skins": "texture-packs/bone-skins",
+    "Minecraft Classic (night)": "texture-packs/minecraft-classic-night",
+    "Crimvals": "texture-packs/crimvals"
+  },
+  "iconAliases": {
+    "spoofer": "venetian-mask",
+    "scan-eye": "radar",
+    "settings": "settings-2",
+    "automation": "workflow",
+    "cosmetics": "package-open",
+    "visuals": "eye",
+    "models-cube-v2": "box",
+    "cosmetic-skin-v2": "paintbrush",
+    "cosmetic-wrap-v2": "wallpaper",
+    "cosmetic-charm-v2": "gem",
+    "cosmetic-finisher-v2": "skull",
+    "cosmetic-custom-v2": "shapes",
+    "cosmetic-check-v2": "check",
+    "cosmetic-close-v2": "x",
+    "cosmetic-none-v2": "ban",
+    "cosmetic-search-v2": "search"
+  }
+}
